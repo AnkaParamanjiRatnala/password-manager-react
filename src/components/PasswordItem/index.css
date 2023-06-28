@@ -1,0 +1,41 @@
+.del-btn {
+  background-color: transparent;
+  border: none;
+}
+.del-img {
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+}
+.star-img {
+  height: 15px;
+  width: 90px;
+}
+.first-letter {
+  background-color: #10b981;
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border-radius: 25px;
+  height: 35px;
+  width: 35px;
+  padding-left: 10px;
+  padding-top: 3px;
+  margin-right: 10px;
+}
+.password-item-container {
+  display: flex;
+  border-radius: 4px;
+  border: 1px solid #c3caea;
+  height: 120px;
+  min-width: 200px;
+  padding: 5px;
+  margin: 5px;
+}
+p {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+}
